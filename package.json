@@ -21,7 +21,7 @@
   "dependencies": {
     "@ftbl/support": "^1.0.1",
     "lodash": "^3.10.1",
-    "radium": "^0.13.8",
+    "radium": "^0.16.6",
     "react": "^0.14.0",
     "react-redux": "^4.4.5",
     "redux": "^3.5.2"
