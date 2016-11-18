@@ -1,3 +1,3 @@
-### @ftbl/navigation
+### @recipher/navigation
 
 Navigation components.

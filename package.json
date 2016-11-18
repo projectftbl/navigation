@@ -1,6 +1,6 @@
 {
-  "name": "@ftbl/navigation",
-  "version": "1.0.1",
+  "name": "@recipher/navigation",
+  "version": "1.0.2",
   "description": "React menu components",
   "main": "dist/index",
   "scripts": {
@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/navigation.git"
+    "url": "git@github.com:recipher/navigation.git"
   },
   "dependencies": {
-    "@ftbl/support": "^1.0.1",
+    "@recipher/support": "^1.0.1",
     "lodash": "^3.10.1",
     "radium": "^0.16.6",
     "react": "^0.14.0",
@@ -27,7 +27,7 @@
     "redux": "^3.5.2"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.5.0",
+    "@recipher/gulp": "^1.5.0",
     "babel": "^6.3.26",
     "babel-cli": "^6.4.5",
     "babel-core": "^6.4.5",
